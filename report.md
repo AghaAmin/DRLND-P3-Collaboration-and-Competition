@@ -1,7 +1,7 @@
 # Collaboration and Competition Project Report
 
 ## Deep Deterministic Policy Gradient (DDPG)
-[DDPG](https://arxiv.org/pdf/1509.02971.pdf), implemeted as part of this project, is an offline policy method in which two architectures are combined: 1) Actor which is utilized to determine the current policy in continuous space and 2) Critic which is used to learn the Q-values in a given (state, action) pair. For more details, please take a look at [2](https://arxiv.org/pdf/1509.02971.pdf). 
+[DDPG](https://arxiv.org/pdf/1509.02971.pdf) implemeted as part of this project, is an offline policy method in which two architectures are combined: 1) Actor which is utilized to determine the current policy in continuous space and 2) Critic which is used to learn the Q-values in a given (state, action) pair. For more details, please take a look at [2](https://arxiv.org/pdf/1509.02971.pdf). 
 
 ## Multi-Agent Deep Deterministic Policy Gradient (MADDPG)
 [MADDPG] (https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf) was utilized to train two agents to play tennis.
